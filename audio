@@ -25,7 +25,7 @@
 <div id="player-container" onclick="toggleAudio()"></div>
 
 <audio id="audio-element">
-  <source src="https://raw.githubusercontent.com/seafoxnice/seafoxnice.github.io/main/Live_%EC%98%88%EB%AC%B8.m4a" type="audio/x-m4a">
+  <source src="https://github.com/lexteacher/lexteacher.github.io/blob/0af978aceb6210d4561a56e354bedd58e2b9c1ab/Github%20audio%20test.m4a" type="audio/x-m4a">
 </audio>
 
 <script>
