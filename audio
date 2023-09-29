@@ -8,7 +8,7 @@
   #player-container {
     width: 35px; /* Adjust the size if needed */
     height: 35px; /* Adjust the size if needed */
-    background: url('https://raw.githubusercontent.com/seafoxnice/seafoxnice.github.io/main/image_speaker.png') no-repeat center center;
+    background: url('https://github.com/lexteacher/lexteacher.github.io/blob/d7265e8b92b308165b68b386e3f569d1695bdeb7/audio-150191_640.png') no-repeat center center;
     background-size: contain; /* Ensures the image fits within the container */
     display: flex;
     justify-content: center;
