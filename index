@@ -8,7 +8,7 @@
   #player-container {
     width: 35px; /* Adjust the size if needed */
     height: 35px; /* Adjust the size if needed */
-    background: url('https://github.com/lexteacher/lexteacher.github.io/blob/d7265e8b92b308165b68b386e3f569d1695bdeb7/audio-150191_640.png') no-repeat center center;
+    background: url('https://raw.githubusercontent.com/lexteacher/lexteacher.github.io/d7265e8b92b308165b68b386e3f569d1695bdeb7/audio-150191_640.png') no-repeat center center;
     background-size: contain; /* Ensures the image fits within the container */
     display: flex;
     justify-content: center;
@@ -25,7 +25,7 @@
 <div id="player-container" onclick="toggleAudio()"></div>
 
 <audio id="audio-element">
-  <source src="https://github.com/lexteacher/lexteacher.github.io/blob/0af978aceb6210d4561a56e354bedd58e2b9c1ab/Github%20audio%20test.m4a" type="audio/x-m4a">
+  <source src="https://raw.githubusercontent.com/lexteacher/lexteacher.github.io/0af978aceb6210d4561a56e354bedd58e2b9c1ab/Github%20audio%20test.m4a" type="audio/x-m4a">
 </audio>
 
 <script>
